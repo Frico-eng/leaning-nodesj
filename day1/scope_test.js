@@ -1,3 +1,5 @@
+//small script to test different scopes
+
 var x = 20;
 function foo(){
     var y = 30

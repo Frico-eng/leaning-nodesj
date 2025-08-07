@@ -1,3 +1,4 @@
+//small script testing some closure concepts
 function makeCounter() {
   let count = 0;
   return function () {
